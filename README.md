@@ -1,6 +1,7 @@
 # Lancer terraform et ansible
 
 cd terraform/
+
 terraform apply (lancera le terraform et ansible en une seule commande)
 
 
